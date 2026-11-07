@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "state-bench",
+  "versions": [
+    {
+      "commit": "5b333b8d426638d8825f40efe8a508c20eb85730",
+      "tag": "",
+      "parsed_at": "2026-11-07T19:35:06.718545+00:00"
+    }
+  ]
+}
