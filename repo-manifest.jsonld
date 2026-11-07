@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/state-bench/commit/5b333b8d426638d8825f40efe8a508c20eb85730",
       "git:hexsha": "5b333b8d426638d8825f40efe8a508c20eb85730",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
